@@ -51,6 +51,20 @@ li {
 .d-flex {
   display: flex;
   align-items: center;
+
+    
+
+
+}
+
+.instagram-logo{
+  width: 10px; /* Adjust the size as needed */
+  height: 10px;
+}
+
+.icons8-facebook-50 {
+  width: 10px; /* Adjust the size as needed */
+  height: 10px;
 }
 
 /* 
